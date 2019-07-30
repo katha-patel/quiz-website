@@ -1,6 +1,6 @@
 body{
   background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,.05));
-  background-image: url(lr.jpg);
+  background-image: url(login.jpg);
   background-size: cover;
   background-position: center;
 }
