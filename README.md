@@ -1,7 +1,8 @@
 # trftask
 
 # Quiz Website
-This project is to making a quiz using web development. This web is provided for the users which have a specific role of admin or player, where the admins can create their own quiz and the share with the player.
+This project is about making a quiz website .This website is provided for the users who are assigned with the spacific roles either as admin or as player,where the admins are allowed to create their own quiz and add it to website. Player is allowed to choose the desired quiz which he wants to play.
+
 
 # Tools that will be need to View and Modify this project
 
@@ -14,5 +15,4 @@ This project is to making a quiz using web development. This web is provided for
 3. Open the htdocs folder in the xampp folder and save the required folder.
 4. Open the browser, type localhost/file-name.
 
-# License
-MIT
+
